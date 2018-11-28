@@ -3,3 +3,5 @@ Jangan melakukan pengeditan secara langsung di folder dropbox. Silahkan copy fol
 Lakukan pengeditan di dropbox hanya apabila kerjaan sudah selesai dan project di dropbox perlu di update.
 
 Hal ini untuk mencegah file conflict dan hilangnya kerjaan yang dilakukan.
+
+Naikkan angka terakhir folder kalau melakukan update.
